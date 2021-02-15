@@ -1,0 +1,14 @@
+baseURL = "http://pmiow.com/"
+languageCode = "en-us"
+title = "پدرسوخته های سبد"
+theme = "phugo"
+
+[params]
+
+    # Meta
+    description = "Phugo - Photo Gallery on Hugo"
+    author = "pmiow"
+
+    # Copyright
+    [params.footer.copyright]
+    name = "pmiow"
